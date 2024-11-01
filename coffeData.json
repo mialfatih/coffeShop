@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Caffè Lattee",
+    "description": "Rich, full-bodied espresso in steamed milk, lightly topped with foam.",
+    "image": "https://ikobengkulu.com/assets/berita/original/67046307297-kopi_hitam.jpg",
+    "price": 3.5
+  },
+  {
+    "id": 2,
+    "name": "Cappuccino",
+    "description": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "image": "https://blog.bookingtogo.com/wp-content/uploads/2020/11/jenis-kopi-di-Indonesia-dan-karakteristik-2048x1365.jpg",
+    "price": 3.75
+  },
+  {
+    "id": 3,
+    "name": "Caffè Mocha",
+    "description": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+    "image": "https://simplygroup.co.id/wp-content/uploads/2019/12/kopi-indonesia.jpg",
+    "price": 4.0
+  },
+  {
+    "id": 4,
+    "name": "Caramel Macchiato",
+    "description": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day.",
+    "image": "https://www.healthifyme.com/blog/wp-content/uploads/2020/01/FL-coffee-1.jpg",
+    "price": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Vanilla Sweet Cream Cold Brew",
+    "description": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "image": "https://majalah.ottencoffee.co.id/wp-content/uploads/2015/08/shutterstock_223511062.jpg",
+    "price": 4.25
+  },
+  {
+    "id": 6,
+    "name": "Cold Brew",
+    "description": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals.",
+    "image": "https://img.freepik.com/premium-photo/latte-coffe-isolated_948265-45041.jpg",
+    "price": 3.95
+  },
+  {
+    "id": 7,
+    "name": "Mango Passion Frappuccino",
+    "description": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
+    "image": "https://i.pinimg.com/736x/ba/a6/13/baa613a1fa6b641a0320e90d39119607--cup-of-coffee-coffee-coffee.jpg",
+    "price": 4.95
+  },
+  {
+    "id": 8,
+    "name": "Raspberry Currant Frappuccino",
+    "description": "Made with freshly brewed Teavana® tea, blended juice and ice.",
+    "image": "https://static.vecteezy.com/system/resources/previews/011/041/147/large_2x/coffee-latte-art-in-coffee-shop-free-photo.jpg",
+    "price": 4.75
+  },
+  {
+    "id": 9,
+    "name": "Coffee Frappuccino",
+    "description": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
+    "image": "https://eddington-cambridge.co.uk/wp-content/uploads/Breww_coffee-cup-684x520.jpeg",
+    "price": 4.0
+  },
+  {
+    "id": 10,
+    "name": "Mocha Frappuccino",
+    "description": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+    "image": "https://thumbs.dreamstime.com/b/latte-art-heart-red-cup-hot-latte-art-coffee-wooden-table-vintage-color-tone-114257491.jpg",
+    "price": 4.5
+  }
+]
